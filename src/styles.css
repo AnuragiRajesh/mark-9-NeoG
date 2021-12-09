@@ -1,0 +1,13 @@
+.App {
+  max-width: 600px;
+  margin: 0rem 2rem 15rem 20rem;
+  padding: 2rem;
+  text-align: left;
+}
+
+body {
+  background: rgb(182, 227, 233);
+  /* border-image-repeat: "once";
+  border-image-outset: right;
+  background-image: url("Sweet-Home.jpeg"); */
+}
